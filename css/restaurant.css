@@ -1,0 +1,295 @@
+body {
+  height: 1000px;
+}
+
+header {
+  height: 100px;
+}
+
+.menu9 {
+  position: relative;
+  top: 100px;
+  background-color: #BB2339;
+  width: 350px;
+  border-radius: 25px;
+  height: 644px;
+}
+.menu9 h1 {
+  padding: 20px 0px 20px 10px;
+}
+.menu9 .button1 {
+  position: relative;
+  left: 20px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 82px;
+  height: 48px;
+}
+.menu9 .button2 {
+  position: relative;
+  top: 50px;
+  left: -68px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 124px;
+  height: 48px;
+}
+.menu9 .button3 {
+  position: relative;
+  top: 100px;
+  left: -198px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 108px;
+  height: 48px;
+}
+.menu9 .button4 {
+  position: relative;
+  top: 103px;
+  left: 20px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 138px;
+  height: 48px;
+}
+.menu9 .button5 {
+  position: relative;
+  top: 151px;
+  left: -123px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 181px;
+  height: 48px;
+}
+.menu9 .button6 {
+  position: relative;
+  top: 152px;
+  left: 20px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 82px;
+  height: 48px;
+}
+.menu9 .button7 {
+  position: relative;
+  top: 200px;
+  left: -70px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 107px;
+  height: 48px;
+}
+.menu9 .button8 {
+  position: relative;
+  top: 297px;
+  left: -180px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 123px;
+  height: 48px;
+}
+.menu9 .button9 {
+  position: relative;
+  top: 200px;
+  left: 20px;
+  background-color: #BB2339;
+  border-radius: 25px;
+  border: 2px solid white;
+  color: white;
+  width: 141px;
+  height: 48px;
+}
+
+.manuu1 {
+  margin-top: -500px;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu1 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu1 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu1 img {
+  margin-left: 50px;
+}
+
+.manuu2 {
+  margin-top: -370px;
+  margin-left: 850px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu2 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu2 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu2 img {
+  margin-left: 50px;
+}
+
+.manuu3 {
+  margin-top: 30px;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu3 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu3 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu3 img {
+  margin-left: 50px;
+}
+
+.manuu4 {
+  margin-top: -370px;
+  margin-left: 850px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu4 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu4 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu4 img {
+  margin-left: 50px;
+}
+
+.manuu5 {
+  margin-top: 30px;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu5 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu5 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu5 img {
+  margin-left: 50px;
+}
+
+.manuu6 {
+  margin-top: -370px;
+  margin-left: 850px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu6 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu6 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu6 img {
+  margin-left: 50px;
+}
+
+.manuu7 {
+  margin-top: 30px;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu7 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu7 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu7 img {
+  margin-left: 50px;
+}
+
+.manuu8 {
+  margin-top: -370px;
+  margin-left: 850px;
+  background-color: whitesmoke;
+  width: 400px;
+  height: 368px;
+}
+.manuu8 h3 {
+  padding: 20px 0px 20px 0px;
+  font-size: 20px;
+}
+.manuu8 .narx {
+  color: #BB2339;
+  font-size: 30px;
+}
+.manuu8 img {
+  margin-left: 50px;
+}
+
+.section5 {
+  background-color: #f1ecee;
+  margin-top: 650px;
+  height: 700px;
+}
+.section5 h4 {
+  padding: 219px 0px 0px 0px;
+  font-size: 23px;
+}
+.section5 p {
+  color: #AAA;
+  padding: 20px 0px 20px 0px;
+}
+.section5 .menubutton2 {
+  border-radius: 100px;
+  background-color: white;
+  border: 1px solid #BB2339;
+  width: 148px;
+  height: 44px;
+}
+.section5 .qqq {
+  position: relative;
+  top: -350px;
+  left: 800px;
+}
